@@ -1,6 +1,6 @@
 # cyrosia-osu-skins
-Skins I use mainly
-Screenshots taken from 
+Skins I mainly use,
+screenshots taken from 
 https://skins.osuck.net/
 
 
