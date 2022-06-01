@@ -4,7 +4,8 @@ screenshots taken from
 https://skins.osuck.net/
 
 
-
+# [MonkoEdit](https://www.mediafire.com/file/xthnviquoptb313/MonkoEdit.osk/file)
+![](https://skins.osuck.net/uploads/posts/2021-03/1615248704_screenshot9666.jpg)
 
 # [Rafis 2018-03-26 HDDT skin](https://www.mediafire.com/file/5r7s1o48l8y75j9/Rafis_2018-03-26_HDDT.osk/file)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537866905_ferbeuw.jpg)
